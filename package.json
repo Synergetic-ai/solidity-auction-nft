@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "dotenv": "^8.2.0",
+    "ganache-cli": "^6.12.2",
+    "global": "^4.4.0",
+    "openzeppelin-solidity": "^4.0.0",
+    "truffle": "^5.3.0"
+  }
+}
