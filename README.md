@@ -5,7 +5,7 @@ NFT Auction Soldity Example
 Truffle install globally by following commands. <br/>
 `npm install -g truffle`
 
-Install Ganache from [https://github.com/trufflesuite/ganache/releases](https://github.com/trufflesuite/ganache/releases)
+Install Ganache from [https://github.com/trufflesuite/ganache/releases](https://github.com/trufflesuite/ganache/releases) <br/>
 Ganache is a personal blockchain for rapid Ethereum and Corda distributed application development.
 
 ## Deploy contract
